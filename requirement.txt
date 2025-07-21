@@ -1,0 +1,6 @@
+SpeechRecognition
+pyaudio
+google-generativeai
+isodate
+google-api-python-client
+PyAudio
